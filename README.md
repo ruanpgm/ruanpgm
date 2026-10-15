@@ -5,7 +5,7 @@
 
 Construo sistemas de IA e automação que tiram trabalho manual da operação — e os mantenho rodando em produção.
 
-Analista de TI Júnior na Diagonal Têxtil, indústria têxtil em Belo Horizonte. Desenvolvo e opero a plataforma interna de IA e automação, cobrindo comercial, financeiro, atendimento, estoque e TI. Comecei em banco de dados, passei por suporte, infraestrutura e ERP, e hoje desenho, implanto e sustento a solução ponta a ponta.
+Analista de TI na Diagonal Têxtil, indústria têxtil em Belo Horizonte. Desenvolvo e opero a plataforma interna de IA e automação, cobrindo comercial, financeiro, atendimento, estoque e TI. Comecei em banco de dados, passei por suporte, infraestrutura e ERP, e hoje desenho, implanto e sustento a solução ponta a ponta.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/impacto-dark.png">
